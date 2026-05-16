@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DP_SettingsCategory>Decorative Plants</DP_SettingsCategory>
+  <DP_RestartRequired>Changes take effect after restarting RimWorld.</DP_RestartRequired>
+  <DP_IncludeTrees>Include trees</DP_IncludeTrees>
+  <DP_IncludeSowablePlants>Include sowable plants</DP_IncludeSowablePlants>
+  <DP_IncludeNonSowablePlants>Include non-sowable plants</DP_IncludeNonSowablePlants>
+  <DP_IncludeModdedPlants>Include modded plants</DP_IncludeModdedPlants>
+  <DP_CopyVanillaGlow>Copy vanilla glow</DP_CopyVanillaGlow>
+  <DP_UseOriginalFlammability>Use original flammability</DP_UseOriginalFlammability>
+  <DP_UseOriginalBeauty>Use original beauty</DP_UseOriginalBeauty>
+  <DP_BeautyMultiplier>Beauty multiplier: {0}</DP_BeautyMultiplier>
+  <DP_WorkToBuild>Work to build: {0}</DP_WorkToBuild>
+  <DP_DecorativePlantLabel>decorative {0}</DP_DecorativePlantLabel>
+  <DP_DecorativePlantDescription>A decorative building that reuses the appearance of {0}. It does not grow, wither, or behave as a plant.</DP_DecorativePlantDescription>
+</LanguageData>

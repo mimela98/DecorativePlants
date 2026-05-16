@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Decorative Plants</name>
+  <author>FrostyDog</author>
+  <packageId>frostyDog.decorativeplants</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+Automatically creates lightweight buildable decorative building versions of loaded plant ThingDefs.
+
+Note: RimWorld may log harmless texture atlas warnings for some plant graphics reused by decorative buildings. These warnings are not suppressed so that real graphics issues from other mods remain visible.
+  </description>
+</ModMetaData>

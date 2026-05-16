@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase" Name="DecorativePlantBase" Abstract="True">
+    <thingClass>DecorativePlants.Building_DecorativePlant</thingClass>
+    <category>Building</category>
+    <passability>Standable</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0.05</fillPercent>
+    <selectable>true</selectable>
+    <rotatable>false</rotatable>
+    <useHitPoints>true</useHitPoints>
+    <altitudeLayer>Building</altitudeLayer>
+    <canGenerateDefaultDesignator>true</canGenerateDefaultDesignator>
+    <designationCategory>DecorativePlants</designationCategory>
+    <drawStyleCategory>FilledRectangle</drawStyleCategory>
+    <neverMultiSelect>false</neverMultiSelect>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <building>
+      <claimable>true</claimable>
+      <alwaysDeconstructible>true</alwaysDeconstructible>
+      <isInert>true</isInert>
+      <ai_neverTrashThis>true</ai_neverTrashThis>
+      <isTargetable>false</isTargetable>
+    </building>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>
+      <Beauty>1</Beauty>
+      <Flammability>1</Flammability>
+      <WorkToBuild>80</WorkToBuild>
+    </statBases>
+    <costList>
+      <WoodLog>1</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

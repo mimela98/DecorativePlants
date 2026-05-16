@@ -1,0 +1,11 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\Assemblies\DecorativePlants.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\Assemblies\DecorativePlants.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Source\DecorativePlants\obj\Debug\DecorativePlants.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Assemblies\DecorativePlants.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DecorativePlants\1.6\Assemblies\DecorativePlants.pdb

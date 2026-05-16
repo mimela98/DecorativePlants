@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DP_SettingsCategory>장식용 식물</DP_SettingsCategory>
+  <DP_RestartRequired>설정 변경은 림월드를 재시작한 뒤 적용됩니다.</DP_RestartRequired>
+  <DP_IncludeTrees>나무 포함</DP_IncludeTrees>
+  <DP_IncludeSowablePlants>심을 수 있는 식물 포함</DP_IncludeSowablePlants>
+  <DP_IncludeNonSowablePlants>심을 수 없는 식물 포함</DP_IncludeNonSowablePlants>
+  <DP_IncludeModdedPlants>모드 식물 포함</DP_IncludeModdedPlants>
+  <DP_CopyVanillaGlow>바닐라 발광 효과 복사</DP_CopyVanillaGlow>
+  <DP_UseOriginalFlammability>원본 인화성 사용</DP_UseOriginalFlammability>
+  <DP_UseOriginalBeauty>원본 아름다움 사용</DP_UseOriginalBeauty>
+  <DP_BeautyMultiplier>아름다움 배율: {0}</DP_BeautyMultiplier>
+  <DP_WorkToBuild>건설 작업량: {0}</DP_WorkToBuild>
+  <DP_DecorativePlantLabel>장식용 {0}</DP_DecorativePlantLabel>
+  <DP_DecorativePlantDescription>{0}의 외형을 재사용하는 장식용 건물입니다. 성장하거나 시들지 않으며 식물처럼 동작하지 않습니다.</DP_DecorativePlantDescription>
+</LanguageData>
