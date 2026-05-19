@@ -381,12 +381,16 @@ namespace DecorativePlants
             ThingDef blueprint = (ThingDef)newBlueprint.Invoke(null, new object[] { def, false, null, hotReload });
             if (blueprint != null)
             {
+                blueprint.generated = true;
+                blueprint.modContentPack = def.modContentPack;
                 yield return blueprint;
             }
 
             ThingDef frame = (ThingDef)newFrame.Invoke(null, new object[] { def, hotReload });
             if (frame != null)
             {
+                frame.generated = true;
+                frame.modContentPack = def.modContentPack;
                 yield return frame;
             }
         }
